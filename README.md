@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/adird-hilanet-mcp-badge.png)](https://mseep.ai/app/adird-hilanet-mcp)
+
 # Hilanet MCP
 
 An MCP (Model Context Protocol) server built with fastMCP that provides HR-related tools for a corporate dystopia.
